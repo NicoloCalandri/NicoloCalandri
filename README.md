@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicoloCalandri
-- 👀 I’m interested in IOT, Drone, Aerospace, Simulators, Blockchain and others stuff 
+- 👀 I’m interested in Full Stack Development, IOT, Drone, Aerospace, Simulators, Blockchain and others stuff 
 - 🌱 I’m currently learning Computer Engineering and Automation Specialization Drones
 - 💞️ I’m looking to collaborate on Enthusiastic Engineers and Aerospace Engineers
 - 📫 How to reach me ... COMING SOON!!!
