@@ -12,6 +12,10 @@ Software Architect
 - 📫 How to reach me ... COMING SOON!!!
 - 🚀 I'm collaborating with [SAFEDROP](https://safedrop.it/) StartUp!
 
+<p align="center">📫 Let's connect and build something amazing together!</p>
+ <p align="center">
+   <a href="https://app.daily.dev/maffo23"><img src="https://api.daily.dev/devcards/v2/7QepEUgCLWbn1Sxv7So6l.png?type=wide&r=b0l" width="652" alt="Nicolo Calandri's Dev Card"/></a>
+</p>
 <!---
 NicoloCalandri/NicoloCalandri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
