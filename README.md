@@ -10,6 +10,7 @@ Software Architect
 - 🌱 I’m currently learning Computer Engineering and Automation Specialization Drones
 - 💞️ I’m looking to collaborate on Enthusiastic IT Engineers and Aerospace Engineers
 - 📫 How to reach me ... COMING SOON!!!
+- 🚀 I'm collaborating with [SAFEDROP](https://safedrop.it/) StartUp!
 
 <!---
 NicoloCalandri/NicoloCalandri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
