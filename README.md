@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Architect
 
 -----------------------------
-- 🚀  I'm currently working on [GPA MS srl](https://www.gpams.it/)
+- 🏢  I'm currently working on [GPA MS srl](https://www.gpams.it/)
 - 🌍  I'm based in Borgo Ticino, Italy
 - 🖥️  See my portfolio at ... COMING SOON !!!
 - 👀 I’m interested in Full Stack Development, IOT, Drone, Aerospace, Simulators, Blockchain and others stuff 
